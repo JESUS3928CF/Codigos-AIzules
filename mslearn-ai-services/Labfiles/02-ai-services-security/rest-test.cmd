@@ -1,0 +1,1 @@
+curl -X POST "https://ejercicio2ceguridad.cognitiveservices.azure.com/language/:analyze-text?api-version=2023-04-01" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: 226dd07d89404168b66c953ad03845b4" --data-ascii "{'analysisInput':{'documents':[{'id':1,'text':'hello'}]}, 'kind': 'LanguageDetection'}"

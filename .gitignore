@@ -1,0 +1,9 @@
+*.bin
+*.exe
+*.dll
+
+# Ignorar todos los archivos .env
+*.env
+
+# Ignorar todos los archivos .appsettings.json
+*appsettings.json
