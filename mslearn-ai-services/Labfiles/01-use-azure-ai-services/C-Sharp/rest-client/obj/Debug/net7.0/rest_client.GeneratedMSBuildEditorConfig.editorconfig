@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = rest_client
-build_property.ProjectDir = d:\PROGRAMACION\01_PRACTICA-DE-CURSOS\01-IA\Azure servises\mslearn-ai-services\Labfiles\01-use-azure-ai-services\C-Sharp\rest-client\
+build_property.ProjectDir = D:\PROGRAMACION\01_PRACTICA-DE-CURSOS\01-IA\Azure servises\mslearn-ai-services\Labfiles\01-use-azure-ai-services\C-Sharp\rest-client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

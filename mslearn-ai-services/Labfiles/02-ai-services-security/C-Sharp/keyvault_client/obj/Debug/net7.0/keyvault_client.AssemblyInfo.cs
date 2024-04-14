@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("keyvault_client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+976b75f6e4abf245eeec04e3f09e485784d2eb36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77bebbf3459b1df5f6b5ff9f28561c142047da69")]
 [assembly: System.Reflection.AssemblyProductAttribute("keyvault_client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("keyvault_client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

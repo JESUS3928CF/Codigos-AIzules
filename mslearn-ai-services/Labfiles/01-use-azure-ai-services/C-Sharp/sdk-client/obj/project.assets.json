@@ -632,11 +632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01 IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
+      "projectUniqueName": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01-IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
       "projectName": "sdk-client",
-      "projectPath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01 IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
+      "projectPath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01-IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
       "packagesPath": "C:\\Users\\JSK\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01 IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\obj\\",
+      "outputPath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01-IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JSK\\AppData\\Roaming\\NuGet\\NuGet.Config"

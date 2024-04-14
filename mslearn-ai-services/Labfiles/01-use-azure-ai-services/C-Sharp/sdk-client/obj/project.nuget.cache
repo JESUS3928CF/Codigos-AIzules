@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VY47INa/qC9PaEbr8RanWyznH7fm83iryzDkRPGI4IIXceeRTA92GJ698JmEIsHC8TxgkSNm8/1FmoadELR0vA==",
+  "dgSpecHash": "NhOIyirsnxVU7ik7Meor1CtSEkuczFHMyRAWRzfD8+MWNkXR9AHLutuhYVjsiSio1k7gxJVumaw84dJkr9K6Og==",
   "success": true,
-  "projectFilePath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01 IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
+  "projectFilePath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01-IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JSK\\.nuget\\packages\\azure.ai.textanalytics\\5.3.0\\azure.ai.textanalytics.5.3.0.nupkg.sha512",
     "C:\\Users\\JSK\\.nuget\\packages\\azure.core\\1.33.0\\azure.core.1.33.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+BVYx3VE0f0yGhCMabwL3dmsMBoTEea3nxhYbKVYolYIH3zANQjff3Q97ASAOBtTcWwtcDRJYwUeEVJXuVJeQ==",
+  "dgSpecHash": "EGDTkMjMte0aOMttLQQw/0Nd2pmPGWoCBWyTWpIsT2CR4KX6yNKCv0IHIJmZsK8GkJ0uOEH58Uv6W0z46A9f6g==",
   "success": true,
-  "projectFilePath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01 IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\rest-client\\rest_client.csproj",
+  "projectFilePath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01-IA\\Azure servises\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\rest-client\\rest_client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JSK\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\JSK\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
