@@ -1,0 +1,21 @@
+{
+  "name": "hugging-face-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^2.6.7",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "request-promise": "^4.2.6",
+    "sharp": "^0.33.3"
+  }
+}

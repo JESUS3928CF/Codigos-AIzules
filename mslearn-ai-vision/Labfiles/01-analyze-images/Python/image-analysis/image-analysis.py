@@ -11,6 +11,8 @@ from azure.ai.vision.imageanalysis import ImageAnalysisClient
 from azure.ai.vision.imageanalysis.models import VisualFeatures
 from azure.core.credentials import AzureKeyCredential
 
+
+
 def main():
     global cv_client
 
@@ -146,7 +148,7 @@ def AnalyzeImage(image_filename, image_data, cv_client):
 def BackgroundForeground(endpoint, key, image_file):
     # Define the API version and mode
     api_version = "2023-02-01-preview"
-    mode="foregroundMatting" # Can be "foregroundMatting" or "backgroundRemoval"
+    mode="backgroundRemoval" # Can be "foregroundMatting" or "backgroundRemoval"
     
     # Remove the background from the image or generate a foreground matte
     print('\nRemoving background from image...')

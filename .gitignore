@@ -2,6 +2,9 @@
 *.exe
 *.dll
 
+# Ignorar todos los paquetes de ejercicios en node
+*node_modules
+
 # Ignorar todos los archivos .env
 *.env
 
