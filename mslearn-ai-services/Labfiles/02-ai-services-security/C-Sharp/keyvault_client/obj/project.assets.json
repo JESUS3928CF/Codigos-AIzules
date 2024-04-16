@@ -1066,7 +1066,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JSK\\.nuget\\packages\\": {}
+    "C:\\Users\\JAK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1074,11 +1074,11 @@
       "projectUniqueName": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01-IA\\Azure servises\\mslearn-ai-services\\Labfiles\\02-ai-services-security\\C-Sharp\\keyvault_client\\keyvault_client.csproj",
       "projectName": "keyvault_client",
       "projectPath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01-IA\\Azure servises\\mslearn-ai-services\\Labfiles\\02-ai-services-security\\C-Sharp\\keyvault_client\\keyvault_client.csproj",
-      "packagesPath": "C:\\Users\\JSK\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\JAK\\.nuget\\packages\\",
       "outputPath": "D:\\PROGRAMACION\\01_PRACTICA-DE-CURSOS\\01-IA\\Azure servises\\mslearn-ai-services\\Labfiles\\02-ai-services-security\\C-Sharp\\keyvault_client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JSK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\JAK\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1096,11 +1096,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1140,20 +1135,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Azure.Identity' 1.5.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27",
-      "libraryId": "Azure.Identity",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }
